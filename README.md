@@ -316,11 +316,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 📞 Support & Contact
-
-- **GitHub Issues:** [Report bugs or request features](https://github.com/your-username/staymate-boarding-system/issues)
-- **Email:** support@staymate.com
-- **Documentation:** [Project Wiki](https://github.com/your-username/staymate-boarding-system/wiki)
 
 ## 🙏 Acknowledgments
 
